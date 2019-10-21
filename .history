@@ -75,6 +75,7 @@ gagcm first commit
 git remote add origin https://github.com/akexinad/cmder-config-work.git
 git push -u origin master
 code .
-gs
 echo history > .gitignore
 gagcm ignoring histoty
+gs
+gagcm ignoring history

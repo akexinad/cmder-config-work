@@ -64,7 +64,6 @@ git push -u origin master
 echo history > .gitignore
 gagcm ignoring histoty
 gagcm ignoring history
-gp
 open .
 mycode
 mv lldppfrontend\ olive\
@@ -84,3 +83,5 @@ cmderr
 cd config\
 gs
 gagcm added git aliases
+gp
+gagcm added more git aliases

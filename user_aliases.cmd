@@ -28,10 +28,14 @@ ga=git add .
 gcm=git commit -m $1
 gcl=git clone
 gp=git push
+gpom=git push origin master
 gpl=git pull
+gplr=git pull --rebase
+gplom=git pull origin master
 gagcm=git add . && git commit -m $1
 gb=git branch
 gbd=git branch -D $1
+gcb=git checkout branch $1
 
 nrs=npm run start
 nrd=npm run dev

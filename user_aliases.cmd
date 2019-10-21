@@ -50,3 +50,6 @@ jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\temp
 packmy=mkdir $1 "$1"/js "$1"/css && touch "$1"/index.html "$1"/js/main.js "$1"/css/master.css && cd "$1" && git init
 
 rename=echo "get-childitem *.pdf | foreach { rename-item $_ $_.Name.Replace("orginalTextHere", "newTextHere") }"
+
+atlassian=Il85xSiBSFQl
+oracle=tbd

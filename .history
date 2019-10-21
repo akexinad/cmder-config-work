@@ -64,24 +64,30 @@ git push -u origin master
 echo history > .gitignore
 gagcm ignoring histoty
 gagcm ignoring history
-open .
 mycode
 mv lldppfrontend\ olive\
 cd olive\
-cd ..
 cd olive\lldppfrontend\
 nrs
 code .
 olive
 cd lldppfrontend\
 LS
-ls
-gb
 git branch
+gagcm added git aliases
+gagcm added more git aliases
+gp
+gbd feature/PO-754
+gbd feature/PO-755
+gb
+gs
+gplr
+cd ..
+ls
+open .
 openbash
+echo me\atlassian 
+cat me\atlassian 
 cmderr
 cd config\
-gs
-gagcm added git aliases
-gp
-gagcm added more git aliases
+gagcm atlassian

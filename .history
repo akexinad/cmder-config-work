@@ -39,7 +39,6 @@ git branch
 cd lldppfrontend\
 gb
 git branch 
-code .
 git checkout feature/PO-755 
 git checkout feature/PO-754
 git log
@@ -60,7 +59,6 @@ git commit --amend --reset-author
 gp
 git push
 openbasj
-gs
 git checkout develop 
 git pull --rebase
 openbash
@@ -74,3 +72,9 @@ cd config\
 ls
 git init
 gagcm first commit
+git remote add origin https://github.com/akexinad/cmder-config-work.git
+git push -u origin master
+code .
+gs
+echo history > .gitignore
+gagcm ignoring histoty

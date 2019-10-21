@@ -76,7 +76,6 @@ LS
 git branch
 gagcm added git aliases
 gagcm added more git aliases
-gp
 gbd feature/PO-754
 gbd feature/PO-755
 gb
@@ -89,5 +88,9 @@ openbash
 echo me\atlassian 
 cat me\atlassian 
 cmderr
-cd config\
 gagcm atlassian
+gp
+atlassian 
+atlassian
+cd config\
+gagcm oracle

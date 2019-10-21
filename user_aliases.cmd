@@ -51,5 +51,5 @@ packmy=mkdir $1 "$1"/js "$1"/css && touch "$1"/index.html "$1"/js/main.js "$1"/c
 
 rename=echo "get-childitem *.pdf | foreach { rename-item $_ $_.Name.Replace("orginalTextHere", "newTextHere") }"
 
-atlassian=echo Il85xSiBSFQl
+atlassian=echo Il85xSiBSFQl!
 oracle=echo tbd

@@ -79,7 +79,6 @@ gagcm added more git aliases
 gbd feature/PO-754
 gbd feature/PO-755
 gb
-gs
 gplr
 cd ..
 ls
@@ -89,8 +88,10 @@ echo me\atlassian
 cat me\atlassian 
 cmderr
 gagcm atlassian
-gp
 atlassian 
 atlassian
 cd config\
 gagcm oracle
+gp
+gs
+gagcm edit

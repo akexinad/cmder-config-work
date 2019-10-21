@@ -23,21 +23,16 @@ rmr test\
 npm
 nnpm -v
 npm -v
-cd olive\
 workshop
 gagcm code cleanup
 cd ../..
 mkdir me
 echo Il85xSiBSFQl > atlassian
-mycode
 cd cd cecd304\
 cd cecd304\
 cd me\
 cat atlassian 
 git clone https://cecd304@bitbucket.org/lendlease_corp/lldppfrontend.git
-git branch
-cd lldppfrontend\
-gb
 git branch 
 git checkout feature/PO-755 
 git checkout feature/PO-754
@@ -51,31 +46,41 @@ ng
 git checkout -- package-lock.json 
 git checkout feature/PO-755
 git pull origin develop 
-nrs
 gagcm added error handling in olive builder regarding project boundary attribute
 git config --global user.name "danny c"
 git config --global user.email danny.ceccattini@lendlease.com
 git commit --amend --reset-author
-gp
 git push
 openbasj
 git checkout develop 
 git pull --rebase
-openbash
 cmder
-open .
-cd ..
 cd Desktop\
 git clone https://github.com/akexinad/cmder-config.git
-cmderr
-cd config\
-ls
 git init
 gagcm first commit
 git remote add origin https://github.com/akexinad/cmder-config-work.git
 git push -u origin master
-code .
 echo history > .gitignore
 gagcm ignoring histoty
-gs
 gagcm ignoring history
+gp
+open .
+mycode
+mv lldppfrontend\ olive\
+cd olive\
+cd ..
+cd olive\lldppfrontend\
+nrs
+code .
+olive
+cd lldppfrontend\
+LS
+ls
+gb
+git branch
+openbash
+cmderr
+cd config\
+gs
+gagcm added git aliases

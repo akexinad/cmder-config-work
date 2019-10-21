@@ -14,6 +14,7 @@ vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
 
 mycode=cd C:\Users\cecd304\code
+olive=cd C:\Users\cecd304\code\olive
 workshop=cd C:\Users\cecd304\code\workshop
 playground=cd C:\Users\cecd304\code\playground
 openbash=code "C:\Users\cecd304\cmder\config"
@@ -29,6 +30,8 @@ gcl=git clone
 gp=git push
 gpl=git pull
 gagcm=git add . && git commit -m $1
+gb=git branch
+gbd=git branch -D $1
 
 nrs=npm run start
 nrd=npm run dev

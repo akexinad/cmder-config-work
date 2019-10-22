@@ -66,7 +66,6 @@ gagcm ignoring history
 mv lldppfrontend\ olive\
 cd olive\
 cd olive\lldppfrontend\
-cd lldppfrontend\
 LS
 git branch
 gagcm added git aliases
@@ -84,7 +83,6 @@ atlassian
 gagcm oracle
 gs
 gagcm edit
-gp
 mkdir udemy
 cd udemy\
 mkdir graphql
@@ -94,14 +92,23 @@ cd graphql\
 open PDF-Reference-The-Modern-GraphQL-Bootcamp.pdf 
 cd basics\
 npm i
-cd ..
-code .
 nrs
-mycode
 l
-ls
-olive
 atlassian
-openbash
-cd config\
 gagcm update
+gp
+olvie
+code .
+olive
+cd ll
+cd lldppfrontend\
+mycode
+cd workshop\
+code web_gl\
+udmey
+udemy
+openbash
+cd ..
+ls
+cd config\
+gagcm added udemy alias

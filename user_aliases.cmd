@@ -17,6 +17,7 @@ mycode=cd C:\Users\cecd304\code
 olive=cd C:\Users\cecd304\code\olive
 workshop=cd C:\Users\cecd304\code\workshop
 playground=cd C:\Users\cecd304\code\playground
+udemy=cd C:\Users\cecd304\code\udemy
 openbash=code "C:\Users\cecd304\cmder\config"
 c=C:
 open=start $*

@@ -43,8 +43,6 @@ nrd=npm run dev
 nrb=npm run build
 crapp=create-react-app
 
-udemy=cd D:\code\learn\udemy && D:
-
 REM this command does not work now as there is no more templates file in my workshop
 jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\templates\index.html ./ && touch main.js && npm i lite-server && code . && npm rum start
 

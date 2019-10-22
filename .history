@@ -38,7 +38,6 @@ git checkout feature/PO-755
 git checkout feature/PO-754
 git log
 ng build
-npm i
 npm install -g @angular/cli
 nrb
 bg
@@ -64,13 +63,9 @@ git push -u origin master
 echo history > .gitignore
 gagcm ignoring histoty
 gagcm ignoring history
-mycode
 mv lldppfrontend\ olive\
 cd olive\
 cd olive\lldppfrontend\
-nrs
-code .
-olive
 cd lldppfrontend\
 LS
 git branch
@@ -80,18 +75,33 @@ gbd feature/PO-754
 gbd feature/PO-755
 gb
 gplr
-cd ..
-ls
 open .
-openbash
 echo me\atlassian 
 cat me\atlassian 
 cmderr
 gagcm atlassian
 atlassian 
-atlassian
-cd config\
 gagcm oracle
-gp
 gs
 gagcm edit
+gp
+mkdir udemy
+cd udemy\
+mkdir graphql
+rmr graphql\
+git clone https://github.com/akexinad/graphql.git
+cd graphql\
+open PDF-Reference-The-Modern-GraphQL-Bootcamp.pdf 
+cd basics\
+npm i
+cd ..
+code .
+nrs
+mycode
+l
+ls
+olive
+atlassian
+openbash
+cd config\
+gagcm update

@@ -77,7 +77,6 @@ gplr
 open .
 echo me\atlassian 
 cat me\atlassian 
-cmderr
 gagcm atlassian
 atlassian 
 gagcm oracle
@@ -104,13 +103,9 @@ code web_gl\
 udmey
 gagcm added udemy alias
 gp
-gs
 udemu
 workshop 
-openbash
-cd ..
 cd udemy\
-ls
 cd C:\Users\cecd304\code\udemy
 udemy
 atlassian
@@ -118,5 +113,14 @@ oracle
 cp cd
 pwd
 cd
-cd config\
 gagcm had to of the same
+openbash
+exit
+hostname
+cd Contacts\
+cd ..
+cmderr
+ls
+cd config\
+gs
+gagcm new pc

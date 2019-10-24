@@ -29,7 +29,6 @@ cd cd cecd304\
 cd cecd304\
 cd me\
 cat atlassian 
-git clone https://cecd304@bitbucket.org/lendlease_corp/lldppfrontend.git
 git branch 
 git checkout feature/PO-755 
 git checkout feature/PO-754
@@ -101,7 +100,6 @@ workshop
 cd udemy\
 cd C:\Users\cecd304\code\udemy
 udemy
-atlassian
 oracle
 cp cd
 pwd
@@ -111,9 +109,7 @@ exit
 hostname
 cd Contacts\
 ls
-gs
 gagcm new pc
-gp
 cd ../../
 mkdir code
 cd co
@@ -122,7 +118,12 @@ cd ..
 mycode
 mkdir olive
 olive
+gp
+gs
+git clone https://cecd304@bitbucket.org/lendlease_corp/lldppfrontend.git
 openbash
+atlassian
+git clone https://cecd304@bitbucket.org/lendlease_corp/olive.core.git
 cmderr
 cd config\
 gagcm atlassian

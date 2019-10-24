@@ -1,8 +1,5 @@
-mkdir code
 ls -l
 ls -lah
-cd code\
-mkdir olive
 mkdir test
 mkdir css && touch css/master.css
 tree
@@ -77,7 +74,6 @@ gplr
 open .
 echo me\atlassian 
 cat me\atlassian 
-gagcm atlassian
 atlassian 
 gagcm oracle
 gagcm edit
@@ -94,15 +90,12 @@ l
 gagcm update
 olvie
 code .
-olive
 cd ll
 cd lldppfrontend\
-mycode
 cd workshop\
 code web_gl\
 udmey
 gagcm added udemy alias
-gp
 udemu
 workshop 
 cd udemy\
@@ -114,13 +107,22 @@ cp cd
 pwd
 cd
 gagcm had to of the same
-openbash
 exit
 hostname
 cd Contacts\
-cd ..
-cmderr
 ls
-cd config\
 gs
 gagcm new pc
+gp
+cd ../../
+mkdir code
+cd co
+cd code\
+cd ..
+mycode
+mkdir olive
+olive
+openbash
+cmderr
+cd config\
+gagcm atlassian

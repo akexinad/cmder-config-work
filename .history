@@ -17,7 +17,6 @@ cd test\
 git clone https://github.com/akexinad/my-workshop.git
 packmy test
 rmr test\
-npm
 nnpm -v
 npm -v
 workshop
@@ -34,7 +33,6 @@ git checkout feature/PO-755
 git checkout feature/PO-754
 git log
 ng build
-npm install -g @angular/cli
 nrb
 bg
 ng
@@ -68,9 +66,7 @@ gagcm added git aliases
 gagcm added more git aliases
 gbd feature/PO-754
 gbd feature/PO-755
-gb
 gplr
-open .
 echo me\atlassian 
 cat me\atlassian 
 atlassian 
@@ -83,14 +79,9 @@ git clone https://github.com/akexinad/graphql.git
 cd graphql\
 open PDF-Reference-The-Modern-GraphQL-Bootcamp.pdf 
 cd basics\
-npm i
-nrs
 l
 gagcm update
 olvie
-code .
-cd ll
-cd lldppfrontend\
 cd workshop\
 code web_gl\
 udmey
@@ -106,24 +97,42 @@ pwd
 cd
 gagcm had to of the same
 exit
-hostname
 cd Contacts\
-ls
 gagcm new pc
 cd ../../
 mkdir code
 cd co
 cd code\
-cd ..
 mycode
 mkdir olive
-olive
-gp
-gs
 git clone https://cecd304@bitbucket.org/lendlease_corp/lldppfrontend.git
-openbash
 atlassian
+gagcm atlassian
+gp
 git clone https://cecd304@bitbucket.org/lendlease_corp/olive.core.git
+cd ..
+r
+nrs
+npm
+cl
+hostname
+ip
+ipconfig
+open .
+code .
+olive
+cd ll
+cd lldppfrontend\
+npm i
+git branch feature/hello
+gbd feature/hello
+gcbf helloWorld
+ls
+gbd feature/helloWorld
+gb
+npm install -g @angular/cli
 cmderr
 cd config\
-gagcm atlassian
+gs
+openbash
+gagcm git commands

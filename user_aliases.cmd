@@ -37,13 +37,15 @@ gagcm=git add . && git commit -m $1
 gb=git branch
 gbd=git branch -D $1
 gcb=git checkout branch $1
+gcbf=git checkout branch feature/$1
+gbdf=git branch -D feature/$1
 
 nrs=npm run start
 nrd=npm run dev
 nrb=npm run build
 crapp=create-react-app
 
-REM this command does not work now as there is no more templates file in my workshop
+REM this command does not work now as there is no more templates folder file in my workshop
 jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\templates\index.html ./ && touch main.js && npm i lite-server && code . && npm rum start
 
 packmy=mkdir $1 "$1"/js "$1"/css && touch "$1"/index.html "$1"/js/main.js "$1"/css/master.css && cd "$1" && git init

@@ -1,138 +1,22 @@
-ls -l
-ls -lah
-mkdir test
-mkdir css && touch css/master.css
-tree
-cd css\
-packmytest
-packmy
-packmy "test"
-jsinit
-renaem
-rename
-say "hello"
-say hello
-rm -rf test\
-cd test\
-git clone https://github.com/akexinad/my-workshop.git
-packmy test
-rmr test\
-nnpm -v
-npm -v
-workshop
-gagcm code cleanup
-cd ../..
-mkdir me
-echo Il85xSiBSFQl > atlassian
-cd cd cecd304\
-cd cecd304\
-cd me\
-cat atlassian 
-git branch 
-git checkout feature/PO-755 
-git checkout feature/PO-754
-git log
-ng build
-nrb
-bg
-ng
-git checkout -- package-lock.json 
-git checkout feature/PO-755
-git pull origin develop 
-gagcm added error handling in olive builder regarding project boundary attribute
-git config --global user.name "danny c"
-git config --global user.email danny.ceccattini@lendlease.com
-git commit --amend --reset-author
-git push
-openbasj
-git checkout develop 
-git pull --rebase
-cmder
-cd Desktop\
-git clone https://github.com/akexinad/cmder-config.git
-git init
-gagcm first commit
-git remote add origin https://github.com/akexinad/cmder-config-work.git
-git push -u origin master
-echo history > .gitignore
-gagcm ignoring histoty
-gagcm ignoring history
-mv lldppfrontend\ olive\
-cd olive\
-cd olive\lldppfrontend\
-LS
-git branch
-gagcm added git aliases
-gagcm added more git aliases
-gbd feature/PO-754
-gbd feature/PO-755
-gplr
-echo me\atlassian 
-cat me\atlassian 
-atlassian 
-gagcm oracle
-gagcm edit
-mkdir udemy
-mkdir graphql
-rmr graphql\
-git clone https://github.com/akexinad/graphql.git
-cd graphql\
-open PDF-Reference-The-Modern-GraphQL-Bootcamp.pdf 
-cd basics\
-l
-gagcm update
-olvie
-cd workshop\
-code web_gl\
-udmey
-gagcm added udemy alias
-udemu
-workshop 
-cd udemy\
-cd C:\Users\cecd304\code\udemy
 udemy
-oracle
-cp cd
-pwd
-cd
-gagcm had to of the same
-exit
-cd Contacts\
-gagcm new pc
-cd ../../
-mkdir code
-cd co
-cd code\
-mycode
-mkdir olive
-git clone https://cecd304@bitbucket.org/lendlease_corp/lldppfrontend.git
-atlassian
-gagcm atlassian
-gp
-git clone https://cecd304@bitbucket.org/lendlease_corp/olive.core.git
+cd graphql\
+git pull
+cd basics\
 cd ..
-r
-nrs
-npm
-cl
-hostname
-ip
-ipconfig
-open .
+cod e.
+nrd
 code .
+rns
+nrs
+ls
+openbash
+cderr
+cmderr
+cd config\
 olive
 cd ll
 cd lldppfrontend\
-npm i
-git branch feature/hello
-gbd feature/hello
-gcbf helloWorld
-ls
-gbd feature/helloWorld
-gb
-npm install -g @angular/cli
-cmderr
-cd config\
-gs
-openbash
-gagcm git commands
+gcbf PO-772
+git checkout develop 
+git pull --rebase
+gagcm fixed git commits

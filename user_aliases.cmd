@@ -36,8 +36,8 @@ gplom=git pull origin master
 gagcm=git add . && git commit -m $1
 gb=git branch
 gbd=git branch -D $1
-gcb=git checkout branch $1
-gcbf=git checkout branch feature/$1
+gcb=git checkout $1
+gcbf=git checkout -B feature/$1
 gbdf=git branch -D feature/$1
 
 nrs=npm run start

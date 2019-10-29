@@ -9,14 +9,19 @@ code .
 rns
 nrs
 ls
-openbash
 cderr
 cmderr
-cd config\
-olive
 cd ll
-cd lldppfrontend\
 gcbf PO-772
 git checkout develop 
-git pull --rebase
 gagcm fixed git commits
+gp
+git pull --rebase
+openbash
+olive
+cd lldppfrontend\
+git checkout feature/PO-772 
+git pull origin develop 
+gs
+cd config\
+gagcm fixed checkout commits

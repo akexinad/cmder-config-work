@@ -15,13 +15,15 @@ cd ll
 gcbf PO-772
 git checkout develop 
 gagcm fixed git commits
-gp
 git pull --rebase
-openbash
 olive
 cd lldppfrontend\
 git checkout feature/PO-772 
 git pull origin develop 
 gs
-cd config\
 gagcm fixed checkout commits
+gp
+openbash
+npx create-react-app
+cd config\
+gagcm crapp out an app

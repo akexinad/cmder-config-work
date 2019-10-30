@@ -8,7 +8,6 @@ nrd
 code .
 rns
 nrs
-ls
 cderr
 cmderr
 cd ll
@@ -22,8 +21,13 @@ git checkout feature/PO-772
 git pull origin develop 
 gs
 gagcm fixed checkout commits
-gp
-openbash
 npx create-react-app
-cd config\
 gagcm crapp out an app
+gp
+workshoop
+ls
+openbash
+workshop
+crapp tic_react_toe
+cd config\
+gagcm react fix

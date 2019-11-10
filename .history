@@ -142,7 +142,6 @@ tsc -w
 cd ../..
 cd ..
 gagcm "three js with mapbox"
-gp
 workdshop
 git pull
 cd st
@@ -156,9 +155,13 @@ workshop
 cd apollo\
 cd final\
 code .
-openbash
 cmderr
-cd config\
 ls
 gs
 gagcm "oracle"
+gp
+echo hello
+openbash
+oracle
+cd config\
+gagcm .

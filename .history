@@ -1,33 +1,164 @@
-udemy
-cd graphql\
-git pull
 cd basics\
-cd ..
 cod e.
 nrd
-code .
-rns
-nrs
 cderr
-cmderr
-cd ll
 gcbf PO-772
-git checkout develop 
 gagcm fixed git commits
-git pull --rebase
-olive
-cd lldppfrontend\
 git checkout feature/PO-772 
-git pull origin develop 
-gs
 gagcm fixed checkout commits
 npx create-react-app
 gagcm crapp out an app
-gp
 workshoop
-ls
-openbash
-workshop
 crapp tic_react_toe
-cd config\
 gagcm react fix
+cd tic_react_toe\
+rm -r *
+touch index.css
+touch index.js
+touch notes.txt
+gagcm game works
+udemy
+cd graphql\
+npm uninstall cesium
+npm i cesium
+gcd
+git checkout Dev
+git checkout feature/PO-722
+git checkout feature/PO-772
+gagcm user can now see entire scenario when selecting compartment belonging to highlighted active structure
+    git push --set-upstream origin feature/PO-772
+ng build
+git pull origin develop 
+gagcm code cleanup
+gagcm removed console logs
+coce .
+git branch -D feature/PO-772 
+olice
+olve
+git checkout -B feature/PO-771
+ng test
+gagcm user will now see a pointer on selectable geometry.
+    git push --set-upstream origin feature/PO-771
+git checkout develop 
+gcd feature/PO-771
+gbd feature/PO-771
+reddit.com
+echo reddit.com
+echo http://reddit.com
+mycode
+cd workshop\
+git clone https://github.com/apollographql/fullstack-tutorial.git
+cd fullstack-tutorial\
+rm .git
+rmr .git
+gagcm first commit
+mv fullstack-tutorial apollo
+gagcm file name change
+cd apollo\start\
+rmr src\schema.js 
+cd src\
+touch src\schema.js
+cd apollo\ser
+cd apollo
+cd start\server\
+ns
+npm i apollo-datasource-rest
+git clone https://cecd304@bitbucket.org/lendlease_corp/frontend.git
+gcb feature/setup-mapbox-api
+gcbf setup-mapbox-api
+gcbd setup-mapbox-api
+gcdf setup-mapbox-api
+git branch -D feature/setup-mapbox-api
+gb
+git branch -D feature/setup-mapbox-api 
+gcbf PO-811
+gagcm first commit""
+git push --set-upstream origin feature/PO-811
+npm start
+gagcm wip
+git config git config --global user.name "akexinad"
+git config --global user.name "akexinad"
+git config --global user.name
+git config --global user.email "danny.ceccattini@lendlease.com"
+git config --global user.email
+gagcm commit
+c
+cd
+rns
+olvie
+cd ll
+npm i mapbox-gl
+cd apollo\start\server\
+touch notes
+mv notes notes.txt
+mv notes.txt NOTES.txt
+gagcm "created schema and deployed graph to apollo graph manager"
+cp ..\server\.env ./
+touch apollo.config.js
+npm i
+nts
+npx apollo service:push --endpoint=http://localhost:4000
+gagcm "connect apollo server to apollo react client"
+gagcm "fetching data"
+cd ..\client\
+cd apollo\start\client\
+npx apollo service:check --endpoint=http://localhost:4000
+cd olive\
+cd lldppfrontend\
+gagcm 
+gagcm "fetching data with queries"
+git stash
+git stash pop
+gagcm hooked up mapbox
+gagcm "hooked up mapbox"
+gagcm "update data with mutations"
+gagcm "managing local state"
+cd frontend\
+cd ol
+git checkout master 
+git pull --rebase
+git checkout feature/PO-811 
+git pull origin master 
+cl
+olive
+cd threejs_example\
+cd threejs\
+mkdir threejs_mapbox
+mv threejs_mapbox with_mapbox
+curl https://raw.githubusercontent.com/mapbox/mapbox-gl-js/master/debug/threejs.html ./
+curl https://raw.githubusercontent.com/mapbox/mapbox-gl-js/master/debug/threejs.html main.js
+curl https://raw.githubusercontent.com/mapbox/mapbox-gl-js/master/debug/threejs.html > main.js
+cd with_mapbox\
+curl https://threejs.org/build/three.js > three.js
+cd custom\
+npm init -y
+npm i lite-server
+npm i typescript three
+ts
+npm i -g typescript
+tsc
+tsc -q
+tsc -w
+cd ../..
+cd ..
+gagcm "three js with mapbox"
+gp
+workdshop
+git pull
+cd st
+cd start\
+'code .
+code ,
+cd client\
+cd server\
+nrs
+workshop
+cd apollo\
+cd final\
+code .
+openbash
+cmderr
+cd config\
+ls
+gs
+gagcm "oracle"

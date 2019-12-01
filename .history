@@ -1,6 +1,4 @@
 cd basics\
-cod e.
-nrd
 cderr
 gcbf PO-772
 gagcm fixed git commits
@@ -15,10 +13,7 @@ cd tic_react_toe\
 rm -r *
 touch index.css
 touch index.js
-touch notes.txt
 gagcm game works
-udemy
-cd graphql\
 npm uninstall cesium
 npm i cesium
 gcd
@@ -33,7 +28,6 @@ gagcm removed console logs
 coce .
 git branch -D feature/PO-772 
 olice
-olve
 git checkout -B feature/PO-771
 ng test
 gagcm user will now see a pointer on selectable geometry.
@@ -43,8 +37,6 @@ gbd feature/PO-771
 reddit.com
 echo reddit.com
 echo http://reddit.com
-mycode
-cd workshop\
 cd fullstack-tutorial\
 rm .git
 rmr .git
@@ -72,9 +64,6 @@ git config git config --global user.name "akexinad"
 git config --global user.name "akexinad"
 git config --global user.email
 gagcm commit
-c
-cd
-olvie
 cd ll
 npm i mapbox-gl
 cd apollo\start\server\
@@ -83,21 +72,16 @@ mv notes notes.txt
 mv notes.txt NOTES.txt
 gagcm "created schema and deployed graph to apollo graph manager"
 cp ..\server\.env ./
-touch apollo.config.js
 nts
-npx apollo service:push --endpoint=http://localhost:4000
 gagcm "connect apollo server to apollo react client"
 gagcm "fetching data"
 cd ..\client\
 cd apollo\start\client\
 npx apollo service:check --endpoint=http://localhost:4000
-cd olive\
 gagcm 
-gagcm "fetching data with queries"
 gagcm hooked up mapbox
 gagcm "hooked up mapbox"
 gagcm "update data with mutations"
-gagcm "managing local state"
 cd threejs_example\
 cd threejs\
 mkdir threejs_mapbox
@@ -108,7 +92,6 @@ curl https://raw.githubusercontent.com/mapbox/mapbox-gl-js/master/debug/threejs.
 cd with_mapbox\
 curl https://threejs.org/build/three.js > three.js
 cd custom\
-npm init -y
 npm i lite-server
 npm i typescript three
 ts
@@ -119,12 +102,10 @@ workdshop
 cd st
 'code .
 code ,
-cmderr
 gagcm "oracle"
 echo hello
 gagcm .
 oraclw
-oracle
 $L
 gagcm "merge conflicts"
 git pull origin master
@@ -134,7 +115,6 @@ git checkout master
 git checkout feature/PO-811 
 git checkout -B feature/PO-811 
 git branch -D feature/PO-811 
-git stash pop
 git checkout master 
 npm install @apollo/react-hooks
 npm i apollo-boost graphql react-apollo
@@ -142,14 +122,12 @@ npm install --save-dev @babel/preset-typescript
 npm i @babel/core --save-dev
 npm i @babel/core@7.0.0 --save-dev
 npm i babel --save-dev
-npm i @babel/core
 npm uninstall babel
 npx babel-upgrade --write
 npm i @apollo/hooks apollo-boost graphql-tag
 cd ol
 touch tsconfig.json
 echo {   "compilerOptions": {     "target": "es5",     "module": "commonjs",     "sourceMap": true,     "jsx": "react"   },   "exclude": [     "node_modules"   ],   "compileOnSave": false } > tsconfig.json 
-open .
 rmr frontend\
 git clone https://cecd304@bitbucket.org/lendlease_corp/frontend.git
 ks
@@ -157,8 +135,6 @@ git checkout -B feature/typescript-config
 npm i @apollo/react-hooks apollo-boost graphql-tag
 echo {   "compilerOptions": {     "target": "es5",     "module": "commonjs",     "sourceMap": true,     "jsx": "react"   },   "exclude": [     "node_modules"   ],   "compileOnSave": false } > src\tsconfig.json
 npm i @types/react @types/react-dom --save-dev
-git checkout feature/
-gb
 cd ck
 npm i typescript --save-dev
 tsc --init
@@ -178,85 +154,372 @@ tslint
 nrb
 npm install --save neutrino-middleware-react-hot-ts-loader
 npm uninstall neutrino-middleware-react-hot-ts-loader
-cd src\
 tsc
 npm install --save-dev neutrino typescript neutrino-preset-ts-react
-cd ..\..\server\
 gagcm "ts config in place"
 git push --set-upstream origin feature/typescript-config
-docker run -e  POSTGRES_PASSWORD=postgres -p 5432:5432 -d mdillon/postgis
 git config --global user.name "Danny"
 git config --global user.name
 gagcm "deleted redundant file"
-git stash
 gagcm "removed redundant file"
 gitpass
-git
 git config --user.name
 git config --global user.email "danny.ceccattini@lendlease.com"
 olive cdolive
 jls
 git push
-docker ps
 oliv
 git checkout feature/typescript-config 
 gagcm "mergee conflicts"
-git pull origin develop 
 gagcm "last commit"
-git checkout develop 
 git branch -D feature/typescript-config 
-git pull --rebase
 git checkout -B feature/PO-862-workbook-tool-library
 gagcm "state management"
-gp
 npm i uuid
 npm i uuid --save-dev
 uuid --help
 npm uninstall uuid
 npm i graphql-type-uuid --save-dev
-npm uninstall graphql-type-uuid
 import GraphQLUUID from 'graphql-type-uuid';
 npm i graphql-type-uuid
-gs
-cd olive.frontend\
-cd .
-cd ser
-olive
-cd frontend\
-git pull
 cd final\
-cd server\
-npm i
-rns
 npm i sqlite3
 cd apollo\start\
-cd ..\server\
 nrs --p 4001
-nrs
 npm run start --port 4001
 cf ..
-code .
 rmr start\
-cd start\
-cd client\
 cd ../
 rmr client\
-cd ../..
 rmr apollo\
 git clone https://github.com/apollographql/fullstack-tutorial.git
 mv fullstack-tutorial apollo
 ls -lh
 ls -l
 ls -1
-openbash
-cd apollo\
 ls -a
 ls -h
-ls -lah
-workshop
-cd ..
-cl
-ls
 cmerr
-cd config\
 gagcm "changed ls command"
+git checkout -B feature/PO-865-attribute-list-component
+git branch -D feature/PO-862-workbook-tool-library 
+git
+worksdop
+mkdir jest_react
+crapp react_tests
+mv react_tests\ ../
+rmr jest_react\
+mv react_tests jest_react
+cd jest_react\
+ls -lah
+mkdir jest_testing
+mv jest_react\ .\jest_testing\
+mkdir jest_basics
+rmr Level-Up-JavaScript-Testing-101\
+cd jest_basics\
+rmr jest_basics\
+git clone https://github.com/leveluptuts/Level-Up-JavaScript-Testing-101.git
+npm i liteserver
+npm i parcel
+npm i parcel@next
+gagcm "first commit for jest"
+gagcm "fleshed out attribute list and attribute item components"
+git push --set-upstream origin feature/PO-865-attribute-list-component
+cd jest_testing\
+cd Level-Up-JavaScript-Testing-101\
+npm i @babel/core
+npm uninstall liteserver jest
+ npm i parcel-bundler jest
+cd../..
+gagcm "jest testing incomplete due to lying instructor"
+cd ser
+npm install apollo-datasource-rest --save
+gagcm "writing the resolvers"
+gagcm "connecred to db and writing resolvers"
+rmr .git/
+s
+cd workshop\
+code code .
+ga
+gagcm "refactored notes"
+cd graphql-prisma\prisma\
+cd prisma\
+npm i -g prisma
+cd graphql\graphql-prisma\prisma\
+docker kill 331abd154b60
+git reset --hard HEAD^1
+git reset --hard HEAD^
+git reset --hard HEAD1
+git reset --hard HEAD
+git reset --hard HEAD~1
+git log
+cd apollo\
+cd start\
+npm uninstall graphql-type-uuid
+gagcm "refactored code as per the comments"
+gagcm "writing graph resolvers"
+cd f
+cd frontend\server\
+touch apollo.config.js
+npx apollo service:push --endpoint=http://localhost:4000
+gagcm "connecting the api to a client"
+gagcm "fetching data with queries"
+gagcm "updating data with mutations"
+gagcm "managing local state"
+git checkout -B feature/PO-860-ReactJS-component-WorkbookList
+git checkout feature/PO-859
+git checkout feature/PO-865-attribute-list-component 
+gagcm "initial commit"
+git push --set-upstream origin feature/PO-860-ReactJS-component-WorkbookList
+gagcm "rendering workbook list and workbook item components with mock data"
+gagcm "fixed uri"
+lassian
+atlassian
+git pull origin 
+gagcm "added error handling"
+cd server\node_modules\
+gagcm "code refactor"
+np i
+nnpm test
+gagcm "refactor"
+gagcm "reverted package json script and uri value in index"
+git checkout feature/
+g
+cd serq
+mkdir post_graphile
+psql "postgres:///"
+cmd
+psql --version
+cd post_graphile\
+psql "postgres:///mydb"
+psql "postgres://localhost:5433"
+olive cd fr
+git clone https://cecd304@bitbucket.org/lendlease_corp/olive.element.persistence.git
+cd olive.element.persistence\
+psql
+mycode
+touch notes.txt
+docker -H
+docker -h
+docker -host
+npm i graphile-utils
+npm testnpm i --save-dev enzyme enzyme-adapter-react-16
+npm i --save-dev enzyme enzyme-adapter-react-16
+npm uninstall graphile-utils
+npm uninstall enzyme enzyme-adapter-react-16
+npm i @apollo/react-testing --save-dev
+git pull otigin develop 
+cd
+git clone https://cecd304@bitbucket.org/lendlease_corp/backend.git
+docker kill a41fc09bc6ed
+git pull origin develop 
+docker kill 
+docker kill 01a82b6224ee
+cd ..\frontend\
+npm install --save-dev enzyme enzyme-adapter-react-16 react-test-renderer
+npm i --save-dev waait
+npm i @apollo/react-testing@3.0.0 --save-dev
+cd client\cd ol
+gagcm "tests"
+git checkout -B feature/PO-874-file-refactor
+git checkout feature/sprint14 
+git checkout feature/PO-860-ReactJS-component-WorkbookList 
+git 
+olie
+cd server\
+docker kill a6d41781855b
+cd client\olive.frontend\l
+docker run -e  POSTGRES_PASSWORD=postgres -p 5432:5432 -d mdillon/postgis
+docker-compose up
+cd graphql\graphql-prisma\
+cd prisma
+docker-compose up -d
+prisma deploy
+npm i @types/graphql --save-dev
+npm install @types/graphql-yoga
+npm uninstall @types/graphql
+npm install @types/graphql
+rmr node_modules\
+gagcm "63. Adding Prisma into GraphQL Update Mutations: Part I"
+code 
+git mv library.jsx Library.jsx
+cd Queries\
+cd Shared\
+git mv Pages/ pages/
+git mv -f Pages\ pages\
+git mv -f Pages pages
+\ls
+cmderr
+cd frontend\client\olive.frontend\
+sls
+git mv Pages\ pages
+cd Pages\
+cd _layouts\
+git mv Pages casesensitive
+git mv Pages tempname
+cd Pages pages
+git config --global core.ignorecase false
+git mv Pages pages
+git mv Pages pages-tmp
+git mv pages-tmp pages
+git mv Queries queries-tmp
+git mv queries-tmp queries
+git mv Utils utils-tmp
+git mv utils-tmp utils
+git mv attributes Attributes-tmp
+git mv attributes.jsx attributes.jsx-tmp
+olvie
+git mv attributes.jsx attributes-tmp.jsx
+c:
+cd git
+c
+cd client\olive.frontend\
+git mv attributes.jsx Attributes.jsx 
+git mv Attributes.jsx Attributes.jsx 
+git mv Attributes.jsx Attributes.jsx-mtp
+git mv Attributes.jsx Attributes.jsx-tmp
+git mv Attributes.jsx attributes.jsx-tmp
+git mv attributes.jsx Attributes.jsx-tmp
+git mv attributes.jsx newfolder/Attributes.jsx-tmp
+git mv attributes.jsx ../Attributes.jsx-tmp
+git mv attributes.jsx "New folder\Attributes.jsx"
+rmr "New folder\
+rm "New folder\
+git mv attributes Attributes
+git mv attributes.jsx Attributes
+cd ../../..
+cd ../..
+cd code\
+cd olive\
+git mv src\components\attributes.jsx src\components\Attributes.jsx 
+git status
+git mv src\components\attributes.jsx src\compone
+cd components\
+cd mv -f EntityNavigation.jsx askjdbg.js
+cd mv -f EntityNavigation.jsx askjdbg.jsx
+git add test.js
+git mv EntityNavigation.jsx EntityNavi.jsx
+git mv EntityNavigation.jsx entityN.jsx
+git mv EntityNavi.jsx  entyti.jsx
+git mv attributes.jsx Attribute.jsx
+git mv attributes.jsx attr.jsx
+git mv attributes.jsx Attr.jsx
+git mv attributes.jsx Aakugqeugeq.jsx
+git mv EntityNavigation.jsx enity.jsx
+git reset
+git mv attributes.jsx Attr
+git mv attributes Attr
+git rm --cached old
+git rm --cached Attributes.jsx 
+git rm attributes.jsx 
+git rm attributes.jsx Attributes.jsx
+git add Attributes.jsx
+git mv attributes.jsx Attributes.jsx
+git rm --cached attributes.jsx 
+git mv Module.jsx mid.jsx
+git mv Module.jsx mod.jsx
+olve
+olive 
+cd ..\server\
+code
+cd gr
+oraclepass
+oracle
+cat Dockerfile 
+cd ..\frontend\client\olive.frontend\
+gagcm "65. Adding Prisma into GraphQL Subscriptions"
+llconfig
+cd graphql-prisma\'
+gagcm "75. Locking Down Queries: Part II"
+workshopo
+workshopo\
+cd resume_json\
+gagcm "theme change"
+gagcm "formatting"
+gagcm "added picture"
+cd .
+log
+gagcm "small refactor"
+cd pyodide\
+gagcm "refactored code"
+cd client\
+cd olive.frontend\
+cd ..\..\server\
+cd backend\
+docker ps
+cat package.json 
+workshop
+mkdir redux
+cd redux\
+mv redux reduxx
+cd re
+cd reduxx\
+mv reduxx redux_app
+cd redux_app\
+npm i redux
+rmr package
+rmr package.json 
+rmr package-lock.json 
+npm i redux lite-server
+touch main.js
+rmr redux_app\
+cl
+cd src\
+rmr client\olive.frontend\node_modules\
+npm i
+gbd feature/PO-860-ReactJS-component-WorkbookList
+gbd feature/PO-865-attribute-list-component
+gbd feature/PO-859
+gb
+git checkout -B feature/po860-workbook-list
+gagcm "77. Fragments"
+gagcm "78. Cleaning up Some Edge Cases"
+gagcm "79. Locking Down Subscriptions"
+git checkout feature/po860-workbook-list 
+gagcm "80. Token Expiration"
+gagcm "81. Password Updates"
+cd ..
+cd Downloads\
+cod e.
+touch index.html
+mkdir web_assembly
+mv wa.js web_assembly\
+mv test.wasm index.html web_assembly\
+rmr g-06-24-password-updates.zip 
+cd web_assembly\
+npm init -y
+npm i express
+npm i httpServer
+npm i http-server
+http-server
+cd graphql-prisma\
+nrd
+gagcm "locking down passwords"
+gagcm "83. Pagination"
+gp
+rmr server\
+olive
+cd fr
+cd frontend\
+udemy
+cd graphql\
+git pull
+gs
+node -v
+open .
+cd ..\backend\
+l
+code .
+rns
+nrs
+npm test --watch
+npm i --save-dev react-test-renderer
+git stash
+git checkout develop 
+git pull --rebase
+ls
+git stash pop
+npm test
+openbash
+cd config\
+gagcm "added test command"

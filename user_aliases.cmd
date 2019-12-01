@@ -45,6 +45,7 @@ gbdf=git branch -D feature/$1
 nrs=npm run start
 nrd=npm run dev
 nrb=npm run build
+nrt=npm run test
 crapp=npx create-react-app $1
 
 REM this command does not work now as there is no more templates folder file in my workshop

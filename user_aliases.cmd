@@ -41,6 +41,7 @@ gchk=git checkout $1
 gcbf=git checkout -B feature/$1
 gcf=git checkout feature/$1
 gbdf=git branch -D feature/$1
+gcd=git checkout develop
 
 nrs=npm run start
 nrd=npm run dev

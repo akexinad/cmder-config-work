@@ -78,7 +78,6 @@ gagcm "fetching data"
 cd ..\client\
 cd apollo\start\client\
 npx apollo service:check --endpoint=http://localhost:4000
-gagcm 
 gagcm hooked up mapbox
 gagcm "hooked up mapbox"
 gagcm "update data with mutations"
@@ -101,7 +100,6 @@ gagcm "three js with mapbox"
 workdshop
 cd st
 'code .
-code ,
 gagcm "oracle"
 echo hello
 gagcm .
@@ -151,7 +149,6 @@ cat C:\Users\cecd304\AppData\Roaming\npm-cache\_logs\2019-11-11T21_11_33_295Z-de
 tsc -w *
 tsc -w
 tslint
-nrb
 npm install --save neutrino-middleware-react-hot-ts-loader
 npm uninstall neutrino-middleware-react-hot-ts-loader
 tsc
@@ -312,12 +309,9 @@ git pull otigin develop
 cd
 git clone https://cecd304@bitbucket.org/lendlease_corp/backend.git
 docker kill a41fc09bc6ed
-git pull origin develop 
 docker kill 
 docker kill 01a82b6224ee
-cd ..\frontend\
 npm install --save-dev enzyme enzyme-adapter-react-16 react-test-renderer
-npm i --save-dev waait
 npm i @apollo/react-testing@3.0.0 --save-dev
 cd client\cd ol
 gagcm "tests"
@@ -331,7 +325,6 @@ docker kill a6d41781855b
 cd client\olive.frontend\l
 docker run -e  POSTGRES_PASSWORD=postgres -p 5432:5432 -d mdillon/postgis
 docker-compose up
-cd graphql\graphql-prisma\
 cd prisma
 docker-compose up -d
 prisma deploy
@@ -388,7 +381,6 @@ rm "New folder\
 git mv attributes Attributes
 git mv attributes.jsx Attributes
 cd ../../..
-cd ../..
 cd code\
 cd olive\
 git mv src\components\attributes.jsx src\components\Attributes.jsx 
@@ -422,7 +414,6 @@ olve
 olive 
 cd ..\server\
 code
-cd gr
 oraclepass
 oracle
 cat Dockerfile 
@@ -447,7 +438,6 @@ cd olive.frontend\
 cd ..\..\server\
 cd backend\
 docker ps
-cat package.json 
 workshop
 mkdir redux
 cd redux\
@@ -463,14 +453,11 @@ rmr package-lock.json
 npm i redux lite-server
 touch main.js
 rmr redux_app\
-cl
 cd src\
 rmr client\olive.frontend\node_modules\
-npm i
 gbd feature/PO-860-ReactJS-component-WorkbookList
 gbd feature/PO-865-attribute-list-component
 gbd feature/PO-859
-gb
 git checkout -B feature/po860-workbook-list
 gagcm "77. Fragments"
 gagcm "78. Cleaning up Some Edge Cases"
@@ -492,34 +479,79 @@ npm i express
 npm i httpServer
 npm i http-server
 http-server
-cd graphql-prisma\
-nrd
 gagcm "locking down passwords"
 gagcm "83. Pagination"
-gp
 rmr server\
-olive
 cd fr
-cd frontend\
-udemy
-cd graphql\
-git pull
-gs
 node -v
 open .
-cd ..\backend\
 l
-code .
-rns
-nrs
 npm test --watch
 npm i --save-dev react-test-renderer
+gagcm "added test command"
+gagcm 
+gagcm "rendering workbook list and items, passing tests"
+git push --set-upstream origin feature/po860-workbook-list
+$env:API_END_POINT='http://develop-api.elidev.io/graphql'
+gagcm "removed some console logging"
+gb
+gbd PO858-Component-Element-Navigation
+PO858-Component-Element-Navigation
+cd ..\backend\
+code /
+rns
+gagcm "wip"
+ git push --set-upstream origin feature/PO858-Component-Element-Navigation
+ git push --set-upstream origin feature/PO858-Component-Element-Navigation
+git add .
+gagcm "conflicts"
+cd ..\frontend\
+npm i --save-dev @apollo/react-testing
+npm i --save-dev enzyme
+rnt
+npm i --save-dev enzyme-adapter-react-15
+npm uninstall enzyme-adapter-react-15
+npm uninstall enzyme
+npm i --save-dev waait
 git stash
-git checkout develop 
-git pull --rebase
-ls
+code ,
 git stash pop
+npm i --save-dev cmd-env
+feature/PO858-Component-Element-Navigationcl
+c;
+npm i --save-dev env-cmd
+cd graphql-prisma\
+cat package.json 
+cl
+oilve
 npm test
+cd graphql\
+udemy
+cd gr
+cd graphql\graphql-prisma\
+git pull
+nrd
+npm i
+olive
+cd frontend\
+gd
+nrt
+git pull --rebase
+git pull origin develop 
+git checkout feature/PO858-Component-Element-Navigation
+nrs
+code .
+nrb
+cd src\data\
+git ls
+git mv WorkflowData.js workflowData.js
+ls
+gs
+gagcm "name change"
+cd ../..
+gagcm "css"
+gp
+git checkout develop 
 openbash
 cd config\
-gagcm "added test command"
+gagcm "added git checkout develop"

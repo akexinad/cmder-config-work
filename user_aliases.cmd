@@ -47,7 +47,9 @@ nrs=npm run start
 nrd=npm run dev
 nrb=npm run build
 nrt=npm run test
-crapp=npx create-react-app $1
+
+crapp=npx create-react-app $1 --template typescript
+mkcom= mkdir .\src\components\$1 && touch .\src\components\$1\$1.tsx .\src\components\$1\$1.test.ts .\src\components\$1\$1.scss
 
 REM this command does not work now as there is no more templates folder file in my workshop
 jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\templates\index.html ./ && touch main.js && npm i lite-server && code . && npm rum start

@@ -71,7 +71,6 @@ mv notes notes.txt
 mv notes.txt NOTES.txt
 gagcm "created schema and deployed graph to apollo graph manager"
 cp ..\server\.env ./
-nts
 gagcm "connect apollo server to apollo react client"
 gagcm "fetching data"
 cd ..\client\
@@ -112,7 +111,6 @@ git checkout master
 git checkout feature/PO-811 
 git checkout -B feature/PO-811 
 git branch -D feature/PO-811 
-git checkout master 
 npm install @apollo/react-hooks
 npm i apollo-boost graphql react-apollo
 npm install --save-dev @babel/preset-typescript
@@ -136,7 +134,6 @@ cd ck
 npm i typescript --save-dev
 tsc --init
 touch tslint.json
-cd lldppfrontend\
 cat tslint.json 
 cp tslint.json ..\frontend\client\olive.frontend\
 npm i @types/react-dom --save-dev
@@ -178,31 +175,275 @@ npm uninstall uuid
 npm i graphql-type-uuid --save-dev
 cd threebox\new
 gagcm "rendering models according to new data structure"
-udemy
-olive
-cd frontend\
 cd threebox\new_obj_model\
-cd ../..
 cd pyodide\
 cd pyodide_react\
 rs
 npm i rxjs
-open .
 code. 
-nrs
 gagcm "prototypal inheritance"
 gagcm "pyodide executing"
-gp
-g
-workshop
-git pull
-cd threebox\react_threebox\
-cl
-npm i
-code .
-openbash
 npm uninstall -g create-react-app
-cd config\
-ls
-gs
 gagcm "added react commands"
+cat css\master.css 
+gagcm "mapbox is instantiated, can add standard 3d building layer"
+gagcm "rendering map in functional component, however I have a useEffect issue"
+git checkout -B "mapbox-class-component"
+gagcm "rendering map inside function component"
+    git push --set-upstream origin mapbox-class-component
+git checkout master 
+git merge mapbox-class-component 
+gagcm "changed around the variables"
+gagcm "changed button to be able to toggle"
+npm i three @types/three
+npm uninstall threebox-map
+npm i threebox_ngx
+npm i threebox
+nts
+olve
+cd fr
+cat src\components\CanvasContainer.jsx 
+npm uninstall threebox threebox-map
+curl https://raw.githubusercontent.com/peterqliu/threebox/6e6a1ae3878c8557c20eb56ada53af843222f390/dist/threebox.js > src\utils\rhinoParser\threebox.js
+cd lldppfrontend\
+ls src\utils\
+curl https://threejs.org/build/three.js > src\utils\threebox\three.js
+curl https://threejs.org/build/three.js > src\utils\threebox\src\three.js
+gagcm "threebox wip"
+gagcm "added web assembly"
+rmr src\utils\rhinoParser\threebox.js 
+rmr src\utils\threebox\
+gagcm "declared globals appropriately and removed unused files"
+mkdir webpack
+touch config.js
+git add webpack\
+git commit -m "webpack config from kabir"
+cd webpack\
+git add .\simple.config.js extended.config.js 
+gagcm "config files from kabir"
+cd checkout dev
+gagcm "can display geojson"
+cd ../..
+cd ..\new_obj_model\
+cd ..\react_threebox\
+np mi
+git checkout -B "wss-issue"
+npm uninstall three
+gagcm "wip"
+git pull'
+cod e.
+cd new
+cd new_obj_model\
+gagcm "prettified"
+olvie
+git checkout -B feature/multiple-scripts 
+git branch --set-upstream-to=origin/<branch> feature/multiple-scripts
+gagcm "float64: for houman"
+    git push --set-upstream origin feature/multiple-scripts
+git pull --rebaes
+git branch --set-upstream-to=origin/feature/multiple-scripts feature/multiple-scripts
+git rebase --abort
+cd threebox\
+cd react_threebox\
+;lkjfsa
+cd graphql\
+git clone https://github.com/akexinad/advanced-react-ts.git
+gagcm "adding PersonList Component"
+gagcm "fixed delete person function"
+gagcm "need to fix cockpit component useState hook"
+gagcm "89. class Component Lifecycle Overview"
+gagcm "90. Component Lifecycles"
+olivew
+git checkout feature/UIDesign
+git chekoas;lkfdjcl
+git checkout feature/UIDesign 
+npm i\
+pm i
+cd src\pages\design\
+git mv DesignPage.tsx DesignPage.tsx
+git mv designPage.tsx DesignPage.tsx
+git mv designSideBar.tsx DesignSideBar.tsx
+git mv editorModeBar.tsx EditorModeBar.tsx
+cd pages\
+cd solve\
+git mv solvePage.tsx SolvePage.tsx
+git config core.ignorecase
+s
+gagcm "93. Using useEffect() in Functional Components"
+gagcm "95. Cleaning up with Lifecycle Hooks & useEffect()"
+gagcm "96. Cleanup Work with useEffect() - Ex"
+gagcm "97. Using shouldComponentUpdate for Optimization"
+gagcm "98. Optimizing Functional Components with React.memo()"
+gficl
+git rm src\pages\design\designPage.tsx 
+git rm src\pages\design\components\editorModeBar.tsx 
+git rm src\pages\design\components\editorModeBar.tsx cl
+git rm src\pages\solve\solvePage.tsx 
+cd start\nrs
+OLIVE
+code . && nra
+rmr src\pages\design\components\designSideBar.tsx
+git rm src\pages\design\components\designSideBar.tsx 
+git rm --cached src\pages\design\components\designSideBar.tsx 
+cd src\pages\design\components\
+git ls
+git lfs
+cd ../../../..
+gagcm "pure components"
+gfs
+cd src/pages/design/components
+git config core.ignorecase true
+cd ../../..
+gitk
+git log --graph --decorate --oneline
+cl
+git pull deve
+g
+git abort
+git --abort
+gagcm "102. Rendering Adjacent JSX Elements"
+gagcm "104. Using React.Fragment"
+gagcm "105. Higher Order Components (HOC) - Introduction"
+git checkout feature/map-gl-layers 
+git merge --abort
+gagcm "106. Another Form of HOCs"
+gagcm "107. Passing Unknown Props"
+gagcm "108. Setting State Correctly"
+gagcm "prettified
+npm i prop-types
+gagcm "109. Using PropTypes"
+gagcm "110. Using Refs"
+gagcm "111. Refs with React Hooks"
+gagcm "112. Understanding Prop Chain Problems"
+gagcm "113. Using the Context API"
+gagcm "114. contextType & useContext()"
+atlassian
+gp]
+crapp panino
+gagcm "first commit"
+cd ..\panino\
+nrts
+mkcom Button1
+mkcom Button2
+rmr src\components\Button1
+rmr src\components\Button2
+mkcom Layout
+gagcm "working out what type to pass to aux props"
+cd ap
+cmderr
+mkcom Button
+gagcm "170. Adding a Custom Button Component"
+gagcm "171. Implementing the Button Component"
+gagcm "172. Adding the Price to the Order Summary"
+mkcom Navigation
+mkcom Toolbar
+gagcm "173. Adding a Toolbar"
+gagcm "small css change"
+mkcom Logo
+gagcm "174. Using a Logo in our Application"
+mkcom NavigationItems
+mkcom NavigationItem
+gagcm "175. Adding Reusable Navigation Items"
+git config core.ignorecase false
+mkcom SideDrawer
+gagcm "176. Creating a Responsive Sidedrawer"
+gp\
+git checkout -B feature/THE1-1
+cd start\
+mv pyodide\ web_assembly\
+cd web_assembly\
+mkdir react
+cd re
+crapp finance_tables
+code . $$ nrs
+mkcom FinancePage
+mkcom FinanceTable
+gagcm "finance first commit"
+gagcm "prepping state"
+gbd feature/THE1-1
+git checkout -B feature/THE1-6
+npm --v
+node --v
+node --version
+cd react\
+mv finance_tables\ ../
+rmr react\
+code . && nrs
+code. && npm start
+gagcm "file restructure"
+mkcom FinanceColumnHeader
+mkcom FinanceTableData
+gagcm "data is displaying"
+gagcm "fixing burger logo"
+git checkout feature/THE1-6
+git pull origin develop 
+gagcm "177. Working on Responsive Adjustments"
+cd .
+gagcm "changed function names"
+cd resume_json\
+npm install material-table --save
+npm install material-table @types/material-table --save
+npm install material-table @types/material-table
+npm install material-table
+cmder
+workshopo
+rns
+code . & npm start
+npm i material-ui
+npm i @material-ui/core
+gagcm "using material table"
+gagcm "178. More about Responsive Adjustments"
+gagcm "179. Reusing the Backdrop"
+mkcom DrawerToggle
+gagcm "180. Adding a Sidedrawer Toggle Button"
+wortworkshop
+git checkout -B feature/FinanceTableFooter
+gbd feature/FinanceTableFooter
+gb
+cd threebox\react_threebox\
+git stash
+git checkout -B feature/subtotals
+git stash pop
+gagcm "calculating subtotals for each table"
+git push --set-upstream origin feature/subtotals
+udolive
+H
+code . && npm start
+udemy
+cd advanced-react-ts\
+cd panino\
+open .
+cd ..
+cd basix\
+cd ..\finance_tables\
+ld
+gagcm "fixed subtotal NaN bug when user inputs 0 for all table rates"
+git pul
+git pull
+npm uninstall material-table
+npm i react-table
+npm i styled-components
+npm i namor
+npm install @types/styled-components
+npm install @types/react-table @types/styled-components
+mkcom Table
+cd mock_react_apps\
+cd finance_tables\
+nrs
+mkcom EditableCell
+gagcm "using react table"
+gp
+olive
+ls
+cd frontend\
+git checkout develop 
+code .
+workshop
+git checkout feature/finance
+git pull --rebase
+npm i
+npm i && npm start
+openbash
+cd config\
+gs
+gagcm "added npm i && npm start"

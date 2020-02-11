@@ -14,6 +14,8 @@ unalias=alias /d $1
 vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
 
+cc=code .
+
 mycode=cd C:\Users\cecd304\code
 eli=cd C:\Users\cecd304\code\olive
 workshop=cd C:\Users\cecd304\code\workshop
@@ -59,6 +61,3 @@ jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\temp
 packmy=mkdir $1 "$1"/js "$1"/css && touch "$1"/index.html "$1"/js/main.js "$1"/css/master.css && cd "$1" && git init
 
 rename=echo "get-childitem *.pdf | foreach { rename-item $_ $_.Name.Replace("orginalTextHere", "newTextHere") }"
-
-atlassian=echo sdf87ygr8eg38r
-oracle=echo S!b!q%3P9$LB

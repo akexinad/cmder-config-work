@@ -330,7 +330,6 @@ rmr src\components\Button2
 mkcom Layout
 gagcm "working out what type to pass to aux props"
 cd ap
-cmderr
 mkcom Button
 gagcm "170. Adding a Custom Button Component"
 gagcm "171. Implementing the Button Component"
@@ -418,7 +417,6 @@ cd ..\finance_tables\
 ld
 gagcm "fixed subtotal NaN bug when user inputs 0 for all table rates"
 git pul
-git pull
 npm uninstall material-table
 npm i react-table
 npm i styled-components
@@ -431,33 +429,48 @@ cd finance_tables\
 mkcom EditableCell
 gagcm "using react table"
 git checkout develop 
-git checkout feature/finance
 npm i && npm start
 gagcm "added npm i && npm start"
 npm i
-code .
 olive
-cd frontend\
-ls
-workshop
-cd mock_react_apps\finance_tables\
-git pull --rebase
 gagcm "trying to make single cell editable and sum totals"
 git checkout -B feature/react-table
 npm i react-table @types/react-table
 npm i styled-components @types/styles-components
 npm i styled-components @types/styled-components
 rns
-nrs
 gagcm "rendering table but values are hardcoded"
 gagcm "can render sales table"
     git push --set-upstream origin feature/react-table
 gagcm "removed styled component"
 gagcm "using useEffect incorrectly"
 gagcm "need to use useEffect correctly"
-gp
 gs
 frontend
-openbash
-cd config\
 gagcm "changed to eli"
+exir
+esit
+exit
+eli
+cd frontend\
+git checkout feature/financ
+git checkout feature/finance
+git pull --rebase
+nrs
+code /
+git checkout feature/react-table 
+npmis
+gagcm "can display unit totals and table subtotal"
+gp
+workshop
+cd mock_react_apps\finance_tables\
+git pull
+gplr
+code .
+openbash
+renae
+rename
+cmderr
+cd config\
+ls
+gagcm "added cc"

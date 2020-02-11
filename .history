@@ -387,7 +387,6 @@ npm install material-table @types/material-table
 npm install material-table
 cmder
 workshopo
-rns
 code . & npm start
 npm i material-ui
 npm i @material-ui/core
@@ -429,21 +428,36 @@ npm install @types/react-table @types/styled-components
 mkcom Table
 cd mock_react_apps\
 cd finance_tables\
-nrs
 mkcom EditableCell
 gagcm "using react table"
-gp
-olive
-ls
-cd frontend\
 git checkout develop 
-code .
-workshop
 git checkout feature/finance
-git pull --rebase
-npm i
 npm i && npm start
+gagcm "added npm i && npm start"
+npm i
+code .
+olive
+cd frontend\
+ls
+workshop
+cd mock_react_apps\finance_tables\
+git pull --rebase
+gagcm "trying to make single cell editable and sum totals"
+git checkout -B feature/react-table
+npm i react-table @types/react-table
+npm i styled-components @types/styles-components
+npm i styled-components @types/styled-components
+rns
+nrs
+gagcm "rendering table but values are hardcoded"
+gagcm "can render sales table"
+    git push --set-upstream origin feature/react-table
+gagcm "removed styled component"
+gagcm "using useEffect incorrectly"
+gagcm "need to use useEffect correctly"
+gp
+gs
+frontend
 openbash
 cd config\
-gs
-gagcm "added npm i && npm start"
+gagcm "changed to eli"

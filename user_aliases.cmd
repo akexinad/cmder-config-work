@@ -10,7 +10,7 @@ REM ls=ls -a --show-control-chars -F --color $*
 ls=ls -1aF
 cl=cls
 history=cat "%CMDER_ROOT%\config\.history"
-unalias=alias /d $1
+unalias=alias /d $*
 vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
 
@@ -25,24 +25,24 @@ openbash=code "C:\Users\cecd304\cmder\config"
 c=C:
 open=start $*
 lslah=ls -lah
-rmr=rm -rf $1
+rmr=rm -rf $*
 
 gs=git status
 ga=git add .
-gcm=git commit -m $1
+gcm=git commit -m $*
 gcl=git clone
 gp=git push
 gpom=git push origin master
 gpl=git pull
 gplr=git pull --rebase
 gplom=git pull origin master
-gagcm=git add . && git commit -m $1
+gagcm=git add . && git commit -m $*
 gb=git branch
-gbd=git branch -D $1
-gchk=git checkout $1
-gcbf=git checkout -B feature/$1
-gcf=git checkout feature/$1
-gbdf=git branch -D feature/$1
+gbd=git branch -D $*
+gchk=git checkout $*
+gcbf=git checkout -B feature/$*
+gcf=git checkout feature/$*
+gbdf=git branch -D feature/$*
 gcd=git checkout develop
 
 nrs=npm run start
@@ -52,12 +52,12 @@ nrt=npm run test
 
 npmis=npm i && npm start
 
-crapp=npx create-react-app $1 --template typescript
+crapp=npx create-react-app $* --template typescript $*
 mkcom= mkdir .\src\components\$1 && touch .\src\components\$1\$1.tsx .\src\components\$1\$1.test.ts .\src\components\$1\$1.module.css
 
 REM this command does not work now as there is no more templates folder file in my workshop
 jsinit=cp D:\code\workshop\templates\package.json ./ && cp D:\code\workshop\templates\index.html ./ && touch main.js && npm i lite-server && code . && npm rum start
 
-packmy=mkdir $1 "$1"/js "$1"/css && touch "$1"/index.html "$1"/js/main.js "$1"/css/master.css && cd "$1" && git init
+packmy=mkdir $* "$*"/js "$*"/css && touch "$*"/index.html "$*"/js/main.js "$*"/css/master.css && cd "$*" && git init
 
 rename=echo "get-childitem *.pdf | foreach { rename-item $_ $_.Name.Replace("orginalTextHere", "newTextHere") }"

@@ -234,7 +234,6 @@ git pull'
 cod e.
 cd new
 cd new_obj_model\
-gagcm "prettified"
 olvie
 git checkout -B feature/multiple-scripts 
 git branch --set-upstream-to=origin/<branch> feature/multiple-scripts
@@ -445,7 +444,6 @@ gagcm "can render sales table"
 gagcm "removed styled component"
 gagcm "using useEffect incorrectly"
 gagcm "need to use useEffect correctly"
-gs
 frontend
 gagcm "changed to eli"
 exir
@@ -461,16 +459,21 @@ code /
 git checkout feature/react-table 
 npmis
 gagcm "can display unit totals and table subtotal"
-gp
 workshop
 cd mock_react_apps\finance_tables\
 git pull
 gplr
 code .
-openbash
 renae
 rename
 cmderr
-cd config\
-ls
 gagcm "added cc"
+ls
+gagcm "refactored state to only return unit subtotals"
+gagcm "added footer"
+gagcm "prettified"
+gp
+gs
+openbash
+cd config\
+gagcm "changed variable type"

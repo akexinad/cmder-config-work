@@ -17,7 +17,7 @@ cmderr=cd /d "%CMDER_ROOT%"
 cc=code .
 
 mycode=cd C:\Users\cecd304\code
-eli=cd C:\Users\cecd304\code\olive
+eli=cd C:\Users\cecd304\code\eli
 workshop=cd C:\Users\cecd304\code\workshop
 playground=cd C:\Users\cecd304\code\playground
 udemy=cd C:\Users\cecd304\code\udemy

@@ -409,8 +409,6 @@ code . && npm start
 udemy
 cd advanced-react-ts\
 cd panino\
-open .
-cd ..
 cd basix\
 cd ..\finance_tables\
 ld
@@ -449,7 +447,6 @@ gagcm "changed to eli"
 exir
 esit
 exit
-eli
 cd frontend\
 git checkout feature/financ
 git checkout feature/finance
@@ -466,14 +463,25 @@ gplr
 code .
 renae
 rename
-cmderr
 gagcm "added cc"
 ls
 gagcm "refactored state to only return unit subtotals"
 gagcm "added footer"
 gagcm "prettified"
-gp
 gs
-openbash
-cd config\
 gagcm "changed variable type"
+gagcm "fix commit msg issue"
+gagcm "prettified and fixed commit msg issue"
+gagcm "added editable cell input"
+gagcm "trying to update data with editable input"
+gp
+eli
+openbash
+open .
+cd ..
+comderr
+cmderr
+cd conq
+config\
+cd config\
+gagcm "changed olive to eli"

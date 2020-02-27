@@ -103,7 +103,6 @@ echo hello
 gagcm .
 oraclw
 $L
-gagcm "merge conflicts"
 git pull origin master
 tree
 git pull origin master 
@@ -201,7 +200,6 @@ npm i threebox_ngx
 npm i threebox
 nts
 olve
-cd fr
 cat src\components\CanvasContainer.jsx 
 npm uninstall threebox threebox-map
 curl https://raw.githubusercontent.com/peterqliu/threebox/6e6a1ae3878c8557c20eb56ada53af843222f390/dist/threebox.js > src\utils\rhinoParser\threebox.js
@@ -229,7 +227,6 @@ cd ..\react_threebox\
 np mi
 git checkout -B "wss-issue"
 npm uninstall three
-gagcm "wip"
 git pull'
 cod e.
 cd new
@@ -242,8 +239,6 @@ gagcm "float64: for houman"
 git pull --rebaes
 git branch --set-upstream-to=origin/feature/multiple-scripts feature/multiple-scripts
 git rebase --abort
-cd threebox\
-cd react_threebox\
 ;lkjfsa
 cd graphql\
 git clone https://github.com/akexinad/advanced-react-ts.git
@@ -295,7 +290,6 @@ git config core.ignorecase true
 cd ../../..
 gitk
 git log --graph --decorate --oneline
-cl
 git pull deve
 g
 git abort
@@ -304,7 +298,6 @@ gagcm "102. Rendering Adjacent JSX Elements"
 gagcm "104. Using React.Fragment"
 gagcm "105. Higher Order Components (HOC) - Introduction"
 git checkout feature/map-gl-layers 
-git merge --abort
 gagcm "106. Another Form of HOCs"
 gagcm "107. Passing Unknown Props"
 gagcm "108. Setting State Correctly"
@@ -317,9 +310,7 @@ gagcm "112. Understanding Prop Chain Problems"
 gagcm "113. Using the Context API"
 gagcm "114. contextType & useContext()"
 atlassian
-gp]
 crapp panino
-gagcm "first commit"
 cd ..\panino\
 nrts
 mkcom Button1
@@ -396,19 +387,13 @@ gagcm "180. Adding a Sidedrawer Toggle Button"
 wortworkshop
 git checkout -B feature/FinanceTableFooter
 gbd feature/FinanceTableFooter
-gb
 cd threebox\react_threebox\
-git stash
 git checkout -B feature/subtotals
-git stash pop
 gagcm "calculating subtotals for each table"
 git push --set-upstream origin feature/subtotals
 udolive
 H
 code . && npm start
-udemy
-cd advanced-react-ts\
-cd panino\
 cd basix\
 cd ..\finance_tables\
 ld
@@ -425,14 +410,11 @@ cd mock_react_apps\
 cd finance_tables\
 mkcom EditableCell
 gagcm "using react table"
-git checkout develop 
 npm i && npm start
 gagcm "added npm i && npm start"
-npm i
 olive
 gagcm "trying to make single cell editable and sum totals"
 git checkout -B feature/react-table
-npm i react-table @types/react-table
 npm i styled-components @types/styles-components
 npm i styled-components @types/styled-components
 rns
@@ -447,41 +429,196 @@ gagcm "changed to eli"
 exir
 esit
 exit
-cd frontend\
 git checkout feature/financ
-git checkout feature/finance
-git pull --rebase
-nrs
 code /
-git checkout feature/react-table 
-npmis
 gagcm "can display unit totals and table subtotal"
-workshop
 cd mock_react_apps\finance_tables\
-git pull
-gplr
-code .
 renae
 rename
 gagcm "added cc"
-ls
 gagcm "refactored state to only return unit subtotals"
 gagcm "added footer"
-gagcm "prettified"
-gs
 gagcm "changed variable type"
 gagcm "fix commit msg issue"
 gagcm "prettified and fixed commit msg issue"
 gagcm "added editable cell input"
 gagcm "trying to update data with editable input"
-gp
-eli
-openbash
 open .
-cd ..
 comderr
-cmderr
 cd conq
 config\
-cd config\
 gagcm "changed olive to eli"
+\
+gagcm "displaying editable data"
+gagcm "figuring out what props to pass"
+git checkout -B feature/financial-overview
+git checkout feature/financial-overview
+gagcm "fixed header to reflect real figures"
+    git push --set-upstream origin feature/financial-overview
+git merge (feature/financial-overview
+git merge feature/financial-overview
+gagcm "fix revenue calc in header"
+gagcm "can update unit totals and table subtotals"
+gagcm "making react table component functional"
+sl
+cd
+cd web_gl\
+gagcm "added column id to update funciton to render it more dynamic"
+gagcm "added column id to update function to render it more dynamic"
+gagcm "refactor"
+gagcm "deleted commented code"
+gply
+gagcm "prettified"
+gagcm "css improvements"
+gagcm "heading style change"
+gagcm "186. Changing the Folder Structure"
+cd ..
+git clone https://github.com/akexinad/tutto-arduino.git
+code tutto-arduino\
+.gitconfig
+gitconfig
+git checkout develop 
+udemy
+cd advanced-react-ts\
+cd panino\
+open ..
+cd ..\http_ajax\
+gagcm "http module first commit"
+npm i axios
+gagcm "192. Creating a Http Request to GET Data"
+gagcm "193. Rendering Fetched Data to the Screen"
+gagcm "194. Transforming Data"
+gagcm "195. Making a Post Selectable"
+gagcm "wip" 
+git checkout -B feature/THE1-30
+npm i react-table @types/react-table
+gagcm "installed react-table"
+    git push --set-upstream origin feature/THE1-30
+git checkout feature/react-table
+gagcm "small refactor of the state"
+gagcm "ts linting fix"
+git checkout feature/react-table 
+git checkout feature/THE1-30 
+gagcm "implementation of react table in income table"
+gagcm "added method to render each cell coditionally based on editability"
+gagcm "variable name change"
+gagcm "jsx tag change from td to fragment"
+git pulll --rebase
+git checkout -B feature/THE1-33
+git branch -D feature/THE1-33
+git checkout -B feature/THE1-43
+ga
+git branch -D feature/THE1-43
+git checkout -B feature/THE1-28
+gagcm "created custom financial table with editable inputs"
+    git push --set-upstream origin feature/THE1-28
+gagcm "small code cleanu"
+git checkout feature/1-35
+npm i
+    git push origin HEAD:feature/THE1-28
+git merge feature/1-35
+gagcm "merge changes from 1-28"
+gagcm "removed commented code"
+gti push
+    git push origin HEAD:feature/THE1-28
+git commit --amend
+    git push origin HEAD:feature/THE1-28
+    git push origin HEAD:feature/THE1-28
+gagcm "merging finance"
+    git push origin HEAD:feature/THE1-28
+git checkout feature/1-28
+gagcm "code formatting"
+    git push origin HEAD:feature/THE1-28
+gagcm "prettify"
+gagcm "updated financial table and custom financial table to suit table definitions"
+    git push origin HEAD:feature/THE1-28
+    git push origin HEAD:feature/THE1-28
+git checkout finance
+git checkout -b feature/1-46 
+gagcm "initial commit"
+    git push --set-upstream origin feature/1-46
+git branch -d feature/1-28
+git branch -d feature/1-35
+code ./
+git checkout -b 1-45
+git branch -d 1-45
+git checkout -b feature/1-45
+    git push --set-upstream origin feature/1-45
+git pull --rebae
+cd checkout finance
+git checkout feature/1-45
+gagcm "refactoed table definitions. Unit totals and subtotals calculate and render correctly"
+gagcm "removed some commented code"
+gagcm "fixed custom financial table to reflect changes in table definitinos"
+gp]
+git pull --abort
+git merge --abort
+gagcm "type change. prettified"
+gagcm "added footers to new tables"
+gagcm "currency formatting"
+git pull origin
+cl
+gagcm "user needs to double click to enable editable input"
+gagcm "wip, cannot change input value due to component rerender"
+gagcm "file import reorder"
+\ls
+workshop
+cd threebox\
+cd react_threebox\
+gagcm "wip"
+gagcm "formatting"
+cd fr
+git checkout feature/finannce
+git pull --rebase
+git checkout feature/1-46
+npmis
+git checkout -b feature/1-43
+git checkout feature/THE1-DeleteRow
+git checkout THE1-DeleteRow
+gagcm "merge conflicts"
+git pull
+gagcm "added accessor for deleting"
+    git push --set-upstream origin feature/1-43
+gagcm "user can add delete rows"
+gagcm "removed some comments"
+git checkout feature/1-43
+git pull origin feature/finance
+git stash
+git checkout -b feature/footer-fix
+git stash pop
+eli
+cd frontend\
+ls
+git checkout feature/finance
+git branch -d feature/footer-fix
+code .
+git branch
+gbd THE1-DeleteRow
+feature/1-43
+gbd feature/1-43
+gbd feature/1-45
+gbd 
+gbd feature/1-46
+gbd feature/UIDesign
+gbd wss-issue
+gbd feature/react-table
+gbd feature/financial-overview
+gbd feature/multiple-scripts
+gbd feature/pyodide
+gbd feature/pyodide2
+gbd feature/subtotals
+gb
+gplr
+git checkout -b feature/expandable-rows
+gagcm 
+gagcm "first comit"
+gagcm "first commit"
+gp
+    git push --set-upstream origin feature/expandable-rows
+nrs
+npmis @types/lodash
+openbash
+cmderr
+cd config\
+gs
+gagcm "edited npmis alias"

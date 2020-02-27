@@ -50,7 +50,7 @@ nrd=npm run dev
 nrb=npm run build
 nrt=npm run test
 
-npmis=npm i && npm start
+npmis=npm i $* && npm start
 
 crapp=npx create-react-app $* --template typescript $*
 mkcom= mkdir .\src\components\$1 && touch .\src\components\$1\$1.tsx .\src\components\$1\$1.test.ts .\src\components\$1\$1.module.css

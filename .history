@@ -590,7 +590,6 @@ gbd feature/pyodide
 gbd feature/pyodide2
 gbd feature/subtotals
 gb
-gplr
 git checkout -b feature/expandable-rows
 gagcm 
 gagcm "first comit"
@@ -603,24 +602,16 @@ git checkout -b feature/1-74
 gagcm "first commit"
 gagcm "214. Retrieving Data from the Backend"
 git config user.name "danny"
-git config user.email "danixeka@gmail.com"
-git config user.name "akexinad"
-git config user.name "danny ceccattini"
 git config user.name "danny.ceccattini@lendlease.com"
 git config user.name "akexinad" && git config user.email "danixeka@gmail.com"
 gagcm "215. Removing Old Interceptors"
 gagcm "clean up"
 git checkout develop 
-udemy
-cd advanced-react-ts\
 cd panino\
 cd ..
-ls
-cd http_ajax_ts\
 npmis
 cd ..\http_ajax_ts\
 gagcm "219. Setting Up Links"
-cl
 npmis "react-router react-router-dom"
 openbash
 npm i react-router react-router-dom && npm start
@@ -630,18 +621,40 @@ gagcm "220. Setting Up the Router Package"
 npm uninstall react-router
 gagcm "222. Preparing the Project For Routing"
 gagcm "223. Setting Up and Rendering Routes Up next  224. Rendering Components for Routes"
-gp
 open .
 eli
 cd frontend\
-git checkout feature/finance
-git pull --rebase
 git checkout feature/1-74
 git pull origin feature/finance
-code .
 rns
 nrs
-cmderr
-cd config\
-gs
 gagcm "modified settings"
+git config user.name "akexinad"
+git config user.email "danixeka@gmail.com"
+gagcm "trade and non trade tables display subtotals"
+gp
+    git push --set-upstream origin feature/1-74
+gs
+udemy
+ls
+cd advanced-react-ts\
+cd http_ajax_ts\
+git config user.name "danny ceccattini"
+git config
+git config user.email "danny.ceccattini@lendlease.ocm"
+git config user.email "danny.ceccattini@lendlease.com"
+git config user.email
+git config user.name
+git checkout feature/finance
+git pull --rebase
+gbd feature/1-74
+cl
+gplr
+git checkout -b feature/1-75
+openbasj
+cmderr
+cdcon
+cd config\q
+cd config\
+code .
+gagcm "changed git alias"

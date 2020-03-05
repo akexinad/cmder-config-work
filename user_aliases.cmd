@@ -42,7 +42,7 @@ gbd=git branch -D $*
 gchk=git checkout $*
 gcbf=git checkout -B feature/$*
 gcf=git checkout feature/$*
-gbdf=git branch -D feature/$*
+gcbf=git checkout -b feature/1-$*
 gcd=git checkout develop
 
 nrs=npm run start

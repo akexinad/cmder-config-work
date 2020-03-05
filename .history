@@ -57,7 +57,6 @@ git branch -D feature/setup-mapbox-api
 gcbf PO-811
 gagcm first commit""
 git push --set-upstream origin feature/PO-811
-npm start
 gagcm wip
 git config git config --global user.name "akexinad"
 git config --global user.name "akexinad"
@@ -241,7 +240,6 @@ git branch --set-upstream-to=origin/feature/multiple-scripts feature/multiple-sc
 git rebase --abort
 ;lkjfsa
 cd graphql\
-git clone https://github.com/akexinad/advanced-react-ts.git
 gagcm "adding PersonList Component"
 gagcm "fixed delete person function"
 gagcm "need to fix cockpit component useState hook"
@@ -417,7 +415,6 @@ gagcm "trying to make single cell editable and sum totals"
 git checkout -B feature/react-table
 npm i styled-components @types/styles-components
 npm i styled-components @types/styled-components
-rns
 gagcm "rendering table but values are hardcoded"
 gagcm "can render sales table"
     git push --set-upstream origin feature/react-table
@@ -443,7 +440,6 @@ gagcm "fix commit msg issue"
 gagcm "prettified and fixed commit msg issue"
 gagcm "added editable cell input"
 gagcm "trying to update data with editable input"
-open .
 comderr
 cd conq
 config\
@@ -472,15 +468,10 @@ gagcm "prettified"
 gagcm "css improvements"
 gagcm "heading style change"
 gagcm "186. Changing the Folder Structure"
-cd ..
 git clone https://github.com/akexinad/tutto-arduino.git
 code tutto-arduino\
 .gitconfig
 gitconfig
-git checkout develop 
-udemy
-cd advanced-react-ts\
-cd panino\
 open ..
 cd ..\http_ajax\
 gagcm "http module first commit"
@@ -557,7 +548,6 @@ gagcm "type change. prettified"
 gagcm "added footers to new tables"
 gagcm "currency formatting"
 git pull origin
-cl
 gagcm "user needs to double click to enable editable input"
 gagcm "wip, cannot change input value due to component rerender"
 gagcm "file import reorder"
@@ -569,9 +559,7 @@ gagcm "wip"
 gagcm "formatting"
 cd fr
 git checkout feature/finannce
-git pull --rebase
 git checkout feature/1-46
-npmis
 git checkout -b feature/1-43
 git checkout feature/THE1-DeleteRow
 git checkout THE1-DeleteRow
@@ -582,16 +570,10 @@ gagcm "added accessor for deleting"
 gagcm "user can add delete rows"
 gagcm "removed some comments"
 git checkout feature/1-43
-git pull origin feature/finance
 git stash
 git checkout -b feature/footer-fix
 git stash pop
-eli
-cd frontend\
-ls
-git checkout feature/finance
 git branch -d feature/footer-fix
-code .
 git branch
 gbd THE1-DeleteRow
 feature/1-43
@@ -612,13 +594,54 @@ gplr
 git checkout -b feature/expandable-rows
 gagcm 
 gagcm "first comit"
-gagcm "first commit"
-gp
     git push --set-upstream origin feature/expandable-rows
-nrs
 npmis @types/lodash
+gagcm "edited npmis alias"
+https://github.com/akexinad/advanced-react-ts.git
+git clone https://github.com/akexinad/advanced-react-ts.git
+git checkout -b feature/1-74
+gagcm "first commit"
+gagcm "214. Retrieving Data from the Backend"
+git config user.name "danny"
+git config user.email "danixeka@gmail.com"
+git config user.name "akexinad"
+git config user.name "danny ceccattini"
+git config user.name "danny.ceccattini@lendlease.com"
+git config user.name "akexinad" && git config user.email "danixeka@gmail.com"
+gagcm "215. Removing Old Interceptors"
+gagcm "clean up"
+git checkout develop 
+udemy
+cd advanced-react-ts\
+cd panino\
+cd ..
+ls
+cd http_ajax_ts\
+npmis
+cd ..\http_ajax_ts\
+gagcm "219. Setting Up Links"
+cl
+npmis "react-router react-router-dom"
 openbash
+npm i react-router react-router-dom && npm start
+npm install @types/react-router-dom
+npm start
+gagcm "220. Setting Up the Router Package"
+npm uninstall react-router
+gagcm "222. Preparing the Project For Routing"
+gagcm "223. Setting Up and Rendering Routes Up next  224. Rendering Components for Routes"
+gp
+open .
+eli
+cd frontend\
+git checkout feature/finance
+git pull --rebase
+git checkout feature/1-74
+git pull origin feature/finance
+code .
+rns
+nrs
 cmderr
 cd config\
 gs
-gagcm "edited npmis alias"
+gagcm "modified settings"
